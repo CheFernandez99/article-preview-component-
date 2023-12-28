@@ -13,6 +13,9 @@ section{
     align-items: center;
     height: 100vh;
 }
+svg path{
+    fill:currentColor;
+}
 .contentDiv{
 height: auto;
  background: white;
